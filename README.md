@@ -7,3 +7,4 @@ I just need to add the updated file  which brings it all together.
 
 Anyone who is interested, feel free to add to this idea. 
 I also plan to upload this code to the SuperCollider code base at https://sccode.org/
+... specifically at https://sccode.org/marty-carlton
