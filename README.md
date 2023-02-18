@@ -1,4 +1,4 @@
-# Heptatonic-Scale-Designer
+# Scale-Designer (Formally *Heptatonic)
 Working in SuperCollider, on some code for an app that will potentially make it much easier to nail down Diatonic scales I'm hearing in songs that I appreciate which use unconventional tunings/temperaments. There is plenty of chaff, and plenty left that I want to accomplish with this general idea. At least 1 "Quark", KeyPlayer, must be installed.
 
 I have already added some functionality in an update which brings the original two files together.
